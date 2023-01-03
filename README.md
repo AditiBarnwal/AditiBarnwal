@@ -1,11 +1,12 @@
 ### Hii there 💜
   
+![githubfront](https://user-images.githubusercontent.com/90051406/210391214-f26cc611-48f2-43e0-beb3-538afe72d2a6.png)
+ 
   
   
   
-  
-  <!-- Any image aligned to the right. Beware the width -->
-<img width="45%" align="right" alt="Github" src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==" />
+ <!-- Any image aligned to the right. Beware the width -->
+  <!--<img width="45%" align="right" alt="Github" src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==" />
 <p> Connect to me here...</p>
 <p>
  <!-- <em>
@@ -33,17 +34,10 @@
 <br><br>
  <br><br><br><br>
  
-Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/AditiBarnwal/count.svg)
+<!--Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/AditiBarnwal/count.svg)-->
 
-⭐️ From [AditiBarnwal](https://github.com/AditiBarnwal)
-
-
-
-
-
-
-
+<!--⭐️ From [AditiBarnwal](https://github.com/AditiBarnwal)-->
 <!--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>
  so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
